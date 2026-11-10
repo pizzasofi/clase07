@@ -26,3 +26,4 @@ function consumirApiGet($url) {
     ];
 }
 ?>
+//funciones de archivo funciones.php
