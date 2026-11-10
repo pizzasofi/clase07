@@ -41,3 +41,4 @@ $resultado = consumirApiGet("https://randomuser.me/api/?results=" . $cantidad);
     </main>
 </body>
 </html>
+//Modificacion para la rama del perfil.
